@@ -1,0 +1,4 @@
+[submodule "geducar"]
+	path = geducar
+	url = git@github.com:jeffrepo/geducar.git
+	branch = master
