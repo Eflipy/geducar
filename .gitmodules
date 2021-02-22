@@ -5,3 +5,4 @@
 [submodule "geducar"]
 	path = geducar
 	url = https://github.com/jeffrepo/geducar.git
+	branch = master
