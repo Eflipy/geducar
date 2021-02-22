@@ -1,1 +1,8 @@
-
+[submodule "digifactfel"]
+	path = digifactfel
+	url = https://github.com/jeffrepo/digifactfel.git
+	branch = master
+[submodule "geducar"]
+	path = geducar
+	url = https://github.com/jeffrepo/geducar.git
+	branch = master
