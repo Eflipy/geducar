@@ -6,3 +6,6 @@
 	path = geducar
 	url = https://github.com/jeffrepo/geducar.git
 	branch = master
+[submodule "account_gt"]
+	path = account_gt
+	url = https://github.com/jeffrepo/account_gt.git
